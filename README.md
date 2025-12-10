@@ -1,65 +1,76 @@
-# Hey up! 👋
+<div align="center">
 
-I'm Paul, a full stack developer from [Manchester, England](https://en.wikipedia.org/wiki/Manchester) with 20 years of building for the web.
+# Hey, I'm Paul 👋
 
-When I'm not coding, you'll find me in the curry cafes of [Rusholme](https://en.wikipedia.org/wiki/Rusholme) more often than is probably healthy, or watching [Manchester City](https://www.mancity.com/). 🍛⚽
+### Product Engineer & Advocate for Feedback-Driven Development
 
-## What I believe
+[![Website](https://img.shields.io/badge/Website-feedbackdriven.dev-blueviolet?style=for-the-badge)](https://feedbackdriven.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Paul%20Hammond-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/paul-hammond-bb5b78251/)
 
-I care about building software I can actually trust - code I can change without fear. Learned how to do that at the [BBC](https://www.bbc.co.uk/sport), where TDD was mandatory. Took me a while to get it right. The trick is testing behaviour, not implementation details (Ian Cooper's talk below nails this). Once that clicked, everything changed.
-
-**TDD is the reason I'm never stressed.** I've been doing it for over a decade now and genuinely can't imagine working any other way.
-
-Lately I've been deep into AI-assisted development. Turns out the same TDD discipline that helps humans write better code works brilliantly with AI tools - constrain the scope, test first, and the results are dramatically better. I'm experimenting a lot with these workflows and sharing what I learn.
-
-I'm a [product engineer](https://feedbackdriven.dev/) - not just someone who writes code, but someone who cares deeply about solving real customer problems. Great software comes from tight feedback loops: technical feedback through TDD and CI/CD, and business feedback through close collaboration with stakeholders.
-
-I write about this at **[feedbackdriven.dev](https://feedbackdriven.dev/)** and occasionally share thoughts on my **[YouTube channel](https://www.youtube.com/channel/UCgc0-m2RACQe1VVT_0dkH1Q)**.
-
-The talk that changed everything for me: [TDD, Where Did It All Go Wrong](https://www.youtube.com/watch?v=EZ05e7EMOLM) by Ian Cooper.
-
-## What I'm building
-
-### [Scenarist](https://scenarist.io)
-
-A testing framework that lets you run Playwright tests against your **real** server - Server Components, routes, middleware, business logic - while mocking only external APIs. Test reality, control the rest.
-
-### [.dotfiles](https://github.com/citypaul/.dotfiles)
-
-Where I'm experimenting with AI-assisted development workflows. The **CLAUDE.md** framework inside applies TDD principles to working with AI - it's resonated with a lot of people (418+ stars and growing).
-
-### [mac-dev-machine-setup](https://github.com/citypaul/mac-dev-machine-setup)
-
-Ansible automation to set up a Mac from scratch. One command, fully configured dev environment.
-
-## The journey
-
-Started in 2005 building a Pro Evolution Soccer league website in PHP (tables for layout, the lot). Since then:
-
-- **[Chillingo/EA](https://www.ea.com/ea-studios/chillingo)** - Mobile gaming
-- **[BBC Sport](https://www.bbc.co.uk/sport)** - 4½ years, where I discovered TDD
-- **[Sky](https://www.sky.com/)** - Homepage redesign
-- **[Equal Experts](https://www.equalexperts.com/)** - Consulting with brilliant people
-- **Now** - Contracting, building with TypeScript/Node.js/React, and deep in AI-assisted development workflows
-
-## The stack
-
-**Languages:** TypeScript (strict mode, always), JavaScript
-**Frontend:** React, Next.js
-**Backend:** Node.js, Express
-**Testing:** Jest, Vitest, Playwright, React Testing Library
-**Infrastructure:** Azure, Terraform, Docker
-**Philosophy:** TDD, CI/CD, immutability, behaviour over implementation
+</div>
 
 ---
 
-[![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=citypaul&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+### 🚀 About Me
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=citypaul&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+I am a **Product Engineer** based in Manchester, UK.
 
----
+My background spans roles at **BBC Sport**, **Sky**, **EA**, and **Equal Experts**, but my focus has evolved beyond just writing code. I help teams bridge the gap between technical excellence and business value.
 
-## Links
+I believe that great software comes from **tight feedback loops** and **close collaboration**. I don't just build features; I build systems that allow teams to validate business assumptions quickly and safely.
 
+### 🧠 The Philosophy: Feedback-Driven Development
+
+I am currently capturing my methodology at **[feedbackdriven.dev](https://feedbackdriven.dev)**. My approach is built on three core beliefs:
+
+- **Market Discovery:** Validate assumptions _before_ and _during_ the build. Don't guess—measure.
+- **Technical Excellence:** TDD and CI/CD are not just "quality" tools—they are **speed** tools. They enable the safety required to deploy rapidly.
+- **Collaboration:** Real-time pairing and cross-functional teams beat asynchronous handovers every time.
+
+### 🛠 Technical Stack
+
+I specialize in the JavaScript/TypeScript ecosystem and modern infrastructure, focusing on tools that enable rapid iteration.
+
+**Core Stack**
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
+
+**Infrastructure & DevOps**
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+
+**Methodology**
+![TDD](https://img.shields.io/badge/-TDD-success?style=flat)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-orange?style=flat)
+![Pairing](https://img.shields.io/badge/-Pairing-blue?style=flat)
+
+> _Note: Much of my professional work takes place in Azure DevOps, so my GitHub contribution graph doesn't tell the full story of my daily activity._
+
+### 🔭 Featured Projects
+
+- **[feedbackdriven.dev](https://feedbackdriven.dev)**: A manifesto and resource for building software that matters.
+- **[.dotfiles](https://github.com/citypaul/.dotfiles)**: My personal development environment, optimized for AI-assisted workflows (featuring my `CLAUDE.md` context setup).
+- **[scenarist](https://github.com/citypaul/scenarist)**: A tool for E2E testing Node.js apps with instant scenario switching—mocking only what you need.
+
+### 🍛 Non-Technical
+
+When I'm not obsessing over feedback loops, I'm usually obsessing over **Manchester City** ⚽.
+
+I also have a serious dedication to Indian food. You will often find me exploring the curry cafes of Manchester, always on the hunt for the perfect dish.
+
+### 🎙 Links
+
+- [265 - Software Design with Paul Hammond](https://www.codewithjason.com/podcast/17756559-265-software-design-with-paul-hammond/) (Code with Jason podcast)
 - [In conversation with Alex: Paul Hammond explains his approach to quality software](https://alexbunardzic.substack.com/p/in-conversation-with-alex-paul-hammond)
 - [TDD @ BBC Sport - "TDD is the reason I'm never stressed"](https://journal.optivem.com/p/tdd-bbc-sport-paul-hammond)
+
+---
+
+<div align="center">
+
+**[Read the Manifesto](https://feedbackdriven.dev)** • **[Connect on LinkedIn](https://www.linkedin.com/in/paul-hammond-bb5b78251/)**
+
+</div>
