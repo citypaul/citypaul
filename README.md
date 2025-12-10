@@ -10,6 +10,8 @@ I care about building software I can actually trust - code I can change without 
 
 **TDD is the reason I'm never stressed.** I've been doing it for over a decade now and genuinely can't imagine working any other way.
 
+Lately I've been deep into AI-assisted development. Turns out the same TDD discipline that helps humans write better code works brilliantly with AI tools - constrain the scope, test first, and the results are dramatically better. I'm experimenting a lot with these workflows and sharing what I learn.
+
 I'm a [product engineer](https://feedbackdriven.dev/) - not just someone who writes code, but someone who cares deeply about solving real customer problems. Great software comes from tight feedback loops: technical feedback through TDD and CI/CD, and business feedback through close collaboration with stakeholders.
 
 I write about this at **[feedbackdriven.dev](https://feedbackdriven.dev/)** and occasionally share thoughts on my **[YouTube channel](https://www.youtube.com/channel/UCgc0-m2RACQe1VVT_0dkH1Q)**.
@@ -24,7 +26,7 @@ A testing framework that lets you run Playwright tests against your **real** ser
 
 ### [.dotfiles](https://github.com/citypaul/.dotfiles)
 
-My development environment setup, including a comprehensive **CLAUDE.md** framework for AI-assisted development. It's become a reference for developers practicing TDD with AI tools - 418+ stars and growing.
+Where I'm experimenting with AI-assisted development workflows. The **CLAUDE.md** framework inside applies TDD principles to working with AI - it's resonated with a lot of people (418+ stars and growing).
 
 ### [mac-dev-machine-setup](https://github.com/citypaul/mac-dev-machine-setup)
 
@@ -38,7 +40,7 @@ Started in 2005 building a Pro Evolution Soccer league website in PHP (tables fo
 - **[BBC Sport](https://www.bbc.co.uk/sport)** - 4½ years, where I discovered TDD
 - **[Sky](https://www.sky.com/)** - Homepage redesign
 - **[Equal Experts](https://www.equalexperts.com/)** - Consulting with brilliant people
-- **Now** - Contracting, mostly TypeScript/Node.js/React, infrastructure on Azure
+- **Now** - Contracting, building with TypeScript/Node.js/React, and deep in AI-assisted development workflows
 
 ## The stack
 
