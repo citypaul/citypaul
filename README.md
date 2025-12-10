@@ -1,29 +1,65 @@
-# Hey up!
+# Hey up! 👋
 
-I'm Paul 👋
+I'm Paul, a full stack developer from [Manchester, England](https://en.wikipedia.org/wiki/Manchester) with 20 years of building for the web.
 
-I'm a full stack web developer from [Manchester, England](https://en.wikipedia.org/wiki/Manchester). I've been doing web dev in one form or another since 2005, when I created a website that let players of the game [Pro Evolution Soccer](https://en.wikipedia.org/wiki/Pro_Evolution_Soccer) create leagues against each other. That was all in PHP, and it was back when building websites using tables was still the norm! Things have certainly come a long way since then! 🤣
+**TDD is the reason I'm never stressed.**
 
-My career so far has taken me to Electronic Arts, where I worked for [Chillingo](https://www.ea.com/ea-studios/chillingo) for a while. Loved working there! Then I moved to the BBC, where I worked on the [BBC Sport Website](https://www.bbc.co.uk/sport) for 4 1/2 years. I left the BBC to try my hand at contracting, where I started out at BSKYB, working on various things for them, including a new design of [their homepage](https://www.sky.com/).
+That's not a throwaway line - it's the foundation of everything I do. I learned test-driven development at the [BBC](https://www.bbc.co.uk/sport), where it was a job requirement, and it fundamentally changed how I think about software. When you test behaviour instead of implementation, you can refactor with confidence, ship continuously, and actually sleep at night.
 
-After leaving Sky I worked with some great people at [Equal Experts](https://www.equalexperts.com/), and loved my time there also!
+## What I believe
 
-## Technical interests
+I'm a [product engineer](https://feedbackdriven.dev/) - not just someone who writes code, but someone who cares deeply about solving real customer problems. Great software comes from tight feedback loops: technical feedback through TDD and CI/CD, and business feedback through close collaboration with stakeholders.
 
-I'm a huge fan of TDD (test driven development), as I fundamentally believe it can help to continue writing software with confidence over time. I'd highly recommend [this great talk by Ian Cooper](https://www.youtube.com/watch?v=EZ05e7EMOLM) on the subject.
+I write about this at **[feedbackdriven.dev](https://feedbackdriven.dev/)** and occasionally share thoughts on my **[YouTube channel](https://www.youtube.com/channel/UCgc0-m2RACQe1VVT_0dkH1Q)**.
 
-I fundamentally believe in [CI/CD](https://www.synopsys.com/blogs/software-security/agile-cicd-devops-difference/) and all the benefits it brings, when combined with great tests of course!
+The talk that changed everything for me: [TDD, Where Did It All Go Wrong](https://www.youtube.com/watch?v=EZ05e7EMOLM) by Ian Cooper.
 
-I use Javascript and Typescript mostly, with a focus on node.js and modern front ends like React.
+## What I'm building
 
-I also love dabbling with the infrastructure type stuff, and have used Terraform and Azure recently.
+### [Scenarist](https://scenarist.io)
 
-Actually most of my current work for my current (and previous) clients are in Azure, so the charts you see on this page are currently based on personal stuff I've been doing, not professional stuff, as it's all in Azure and not Github.
+A testing framework that lets you run Playwright tests against your **real** server - Server Components, routes, middleware, business logic - while mocking only external APIs. Test reality, control the rest.
 
-## Non-technical stuff
+### [.dotfiles](https://github.com/citypaul/.dotfiles)
 
-I'm a big fan of Manchester City, and I love curry to a ridiculous extent. I eat Indian food very often, and when we're not in lockdown you'll often find me in the curry cafes in Manchester. 🍛
+My development environment setup, including a comprehensive **CLAUDE.md** framework for AI-assisted development. It's become a reference for developers practicing TDD with AI tools - 418+ stars and growing.
 
-[![Paul's github stats](https://github-readme-stats.vercel.app/api?username=citypaul&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+### [mac-dev-machine-setup](https://github.com/citypaul/mac-dev-machine-setup)
+
+Ansible automation to set up a Mac from scratch. One command, fully configured dev environment.
+
+## The journey
+
+Started in 2005 building a Pro Evolution Soccer league website in PHP (tables for layout, the lot). Since then:
+
+- **[Chillingo/EA](https://www.ea.com/ea-studios/chillingo)** - Mobile gaming
+- **[BBC Sport](https://www.bbc.co.uk/sport)** - 4½ years, where I discovered TDD
+- **[Sky](https://www.sky.com/)** - Homepage redesign
+- **[Equal Experts](https://www.equalexperts.com/)** - Consulting with brilliant people
+- **Now** - Contracting, mostly TypeScript/Node.js/React, infrastructure on Azure
+
+## The stack
+
+**Languages:** TypeScript (strict mode, always), JavaScript
+**Frontend:** React, Next.js
+**Backend:** Node.js, Express
+**Testing:** Jest, Vitest, Playwright, React Testing Library
+**Infrastructure:** Azure, Terraform, Docker
+**Philosophy:** TDD, CI/CD, immutability, behaviour over implementation
+
+## Beyond the code
+
+Manchester City supporter. Curry obsessive - you'll find me in the curry cafes of Rusholme more often than is probably healthy. 🍛
+
+---
+
+[![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=citypaul&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=citypaul&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## Links
+
+- [In conversation with Alex: Paul Hammond explains his approach to quality software](https://alexbunardzic.substack.com/p/in-conversation-with-alex-paul-hammond)
+- [TDD @ BBC Sport - "TDD is the reason I'm never stressed"](https://journal.optivem.com/p/tdd-bbc-sport-paul-hammond)
