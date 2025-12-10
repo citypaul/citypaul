@@ -2,11 +2,13 @@
 
 I'm Paul, a full stack developer from [Manchester, England](https://en.wikipedia.org/wiki/Manchester) with 20 years of building for the web.
 
-**TDD is the reason I'm never stressed.**
-
-That's not a throwaway line - it's the foundation of everything I do. I learned test-driven development at the [BBC](https://www.bbc.co.uk/sport), where it was a job requirement, and it fundamentally changed how I think about software. When you test behaviour instead of implementation, you can refactor with confidence, ship continuously, and actually sleep at night.
+When I'm not coding, you'll find me in the curry cafes of [Rusholme](https://en.wikipedia.org/wiki/Rusholme) more often than is probably healthy, or watching [Manchester City](https://www.mancity.com/). 🍛⚽
 
 ## What I believe
+
+I care about building software I can actually trust - code I can change without fear. Learned how to do that at the [BBC](https://www.bbc.co.uk/sport), where TDD was mandatory. Took me a while to get it right. The trick is testing behaviour, not implementation details (Ian Cooper's talk below nails this). Once that clicked, everything changed.
+
+**TDD is the reason I'm never stressed.** I've been doing it for over a decade now and genuinely can't imagine working any other way.
 
 I'm a [product engineer](https://feedbackdriven.dev/) - not just someone who writes code, but someone who cares deeply about solving real customer problems. Great software comes from tight feedback loops: technical feedback through TDD and CI/CD, and business feedback through close collaboration with stakeholders.
 
@@ -46,10 +48,6 @@ Started in 2005 building a Pro Evolution Soccer league website in PHP (tables fo
 **Testing:** Jest, Vitest, Playwright, React Testing Library
 **Infrastructure:** Azure, Terraform, Docker
 **Philosophy:** TDD, CI/CD, immutability, behaviour over implementation
-
-## Beyond the code
-
-Manchester City supporter. Curry obsessive - you'll find me in the curry cafes of Rusholme more often than is probably healthy. 🍛
 
 ---
 
