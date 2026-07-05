@@ -19,7 +19,7 @@ I'm a product engineer based in Manchester, UK. I've spent 20+ years building so
 
 Again and again, the real constraint on speed was confidence: *can we change this without breaking what customers rely on?* When the answer is yes — when a team can change its system safely, release without drama, and refactor without heroics — the business gets more options. That's the outcome I care about.
 
-I still write plenty of code, but most of my leverage comes from improving what's *around* the code: fast feedback loops, tests that describe behaviour, CI/CD, domain language, clean boundaries, pairing, and close product collaboration. These aren't rituals to me — they're how change stays affordable.
+These days most of my code is written with AI — and that's made the discipline *around* the code matter more, not less. Fast feedback loops, tests that describe behaviour, CI/CD, domain language, clean boundaries, pairing, and close product collaboration aren't rituals to me — they're how I know the code is good, whoever (or whatever) wrote it, and how change stays affordable.
 
 ### Selected work
 
