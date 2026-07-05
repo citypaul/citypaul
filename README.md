@@ -2,9 +2,10 @@
 
 # Hey, I'm Paul 👋
 
-## Product Engineer & Advocate for Feedback-Driven Development
+## Product engineer. I help teams make software safe to change.
 
 [![Website](https://img.shields.io/badge/Website-feedbackdriven.dev-blueviolet?style=for-the-badge)](https://feedbackdriven.dev)
+[![Consulting](https://img.shields.io/badge/Consulting-packsoftware.co.uk-1f6feb?style=for-the-badge)](https://packsoftware.co.uk)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Paul%20Hammond-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/paul-hammond-bb5b78251/)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@FeedbackDrivenDev)
 
@@ -12,78 +13,57 @@
 
 ---
 
-### About Me
+### About me
 
-I am a **Product Engineer** based in Manchester, UK.
+I'm a product engineer based in Manchester, UK. I've spent 20+ years building software in real product teams at **BBC Sport**, **Sky**, **Electronic Arts**, **Equal Experts**, **Hopin**, and **NewDay** — much of it practicing Extreme Programming and TDD.
 
-My background spans roles at **BBC Sport**, **Sky**, **EA**, and **Equal Experts**, but my focus has evolved beyond just writing code. I help teams bridge the gap between technical excellence and business value. I believe strongly that technical excellence matters, but that the real proof that you have a quality foundation is software that remains easy to change over time.
+Again and again, the real constraint on speed was confidence: *can we change this without breaking what customers rely on?* When the answer is yes — when a team can change its system safely, release without drama, and refactor without heroics — the business gets more options. That's the outcome I care about.
 
-I believe that **happy, psychologically safe teams** are the only ones capable of sustaining high performance.
+I still write plenty of code, but most of my leverage comes from improving what's *around* the code: fast feedback loops, tests that describe behaviour, CI/CD, domain language, clean boundaries, pairing, and close product collaboration. These aren't rituals to me — they're how change stays affordable.
 
-Great software comes from **tight feedback loops** and **close collaboration**. Collaboration happens both among engineers (often via pair programming) and between engineers and the business. We're here to build successful products in the market, and it's our job to help with that.
+### Selected work
 
-I don't just build features; I build systems that allow teams to validate business assumptions quickly and safely.
+- **[.dotfiles](https://github.com/citypaul/.dotfiles)** — my AI-assisted engineering system: `CLAUDE.md`, on-demand skills, specialised agents, TDD workflows, TypeScript guardrails, mutation testing. Started as personal config; now a public, working example of disciplined AI-assisted development.
+- **[scenarist](https://github.com/citypaul/scenarist)** — scenario-based testing for Express and Next.js. Run your real application code while controlling external HTTP dependencies through named scenarios — integration confidence without end-to-end pain. Published as `@scenarist/*` packages on npm, docs at [scenarist.io](https://scenarist.io).
+- **[feedbackdriven.dev](https://feedbackdriven.dev)** — my writing on product engineering, XP, TDD, and AI-assisted development.
 
-### The Philosophy: Feedback-Driven Development
+### What that looks like in practice
 
-I am currently capturing my methodology at **[feedbackdriven.dev](https://feedbackdriven.dev)**. My approach is built on three core beliefs:
+- TDD as a design and feedback practice, not just a testing technique — in an interview I put it as [*"TDD is the reason I'm never stressed"*](https://journal.optivem.com/p/tdd-bbc-sport-paul-hammond)
+- Front-end systems that are testable without becoming brittle
+- Refactoring as a continuous habit, not a special event
+- Architecture organised around domain language and boundaries that absorb business change
+- Mutation testing, because coverage tells you code ran — not that your tests would catch a bug
+- AI coding tools inside disciplined workflows: tests first, strict types, review, quality gates
 
-- **Market Discovery:** Validate assumptions _before_ and _during_ the build. Don't guess - measure.
-- **Technical Excellence:** TDD and CI/CD are not just "quality" tools - they are **speed** tools. They enable the safety required to deploy rapidly.
-- **Collaboration:** Real-time pairing and cross-functional teams beat asynchronous handovers every time.
+Day to day that's mostly **TypeScript, React, Node, and Next.js**, with Vitest, Zod, Docker, Terraform, and Azure around the edges.
 
-### Combining XP with AI
+### Current focus: XP in the AI era
 
-I am actively experimenting with how **Extreme Programming (XP)** techniques apply to AI tools like **Claude Code**.
+The question isn't whether AI can write code — it can. It's whether your team has the feedback systems to know that code is correct, maintainable, and safe to change. AI is a force multiplier; your practices decide what gets multiplied.
 
-Rather than letting AI generate code blindly, I use it as a pair programmer that operates within strict **TDD** cycles. I've found that by providing clear context (via my `.dotfiles` setup) and enforcing test-first constraints, we can use these tools to ship faster without sacrificing safety or understanding.
+So I've been encoding XP discipline directly into AI-assisted workflows — small steps, tests first, strict TypeScript, mutation testing, refactoring checks — and publishing the whole system as I go in my [.dotfiles](https://github.com/citypaul/.dotfiles).
 
-📺 **[Watch: Agentic Coding + TDD](https://www.youtube.com/watch?v=wP6W2bnoBAk)**
-_A session showing how I guide an AI agent through a real feature using TDD._
+📺 **[Watch: Agentic Coding + TDD](https://www.youtube.com/watch?v=wP6W2bnoBAk)** — guiding an AI agent through a real feature, test-first.
 
-### Technical Stack
+### Interviews & conversations
 
-I specialize in the JavaScript/TypeScript ecosystem and modern infrastructure, focusing on tools that enable rapid iteration.
+- [Software design with Paul Hammond — Code with Jason](https://www.codewithjason.com/podcast/17756559-265-software-design-with-paul-hammond/)
+- [In conversation with Alex: Paul Hammond](https://alexbunardzic.substack.com/p/in-conversation-with-alex-paul-hammond)
+- [TDD at BBC Sport — Optivem Journal](https://journal.optivem.com/p/tdd-bbc-sport-paul-hammond)
 
-**Core Stack**
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
+### Working together
 
-**Infrastructure & DevOps**
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+I consult through **[Pack Software](https://packsoftware.co.uk)**: technical product delivery, front-end TDD coaching, architecture for change, and AI-assisted engineering systems built on tests, typed contracts, review, and CI quality gates.
 
-**Methodology**
-![XP](https://img.shields.io/badge/-Extreme%20Programming-purple?style=flat)
-![TDD](https://img.shields.io/badge/-TDD-success?style=flat)
-![CI/CD](https://img.shields.io/badge/-CI%2FCD-orange?style=flat)
-![Pairing](https://img.shields.io/badge/-Pairing-blue?style=flat)
+### Non-technical
 
-### Featured Projects
-
-- **[scenarist](https://github.com/citypaul/scenarist)**: A tool for E2E testing Node.js apps with instant scenario switching - mocking only what you need.
-- **[.dotfiles](https://github.com/citypaul/.dotfiles)**: My personal development environment, optimized for AI-assisted workflows (featuring my `CLAUDE.md` context setup).
-- **[feedbackdriven.dev](https://feedbackdriven.dev)**: A manifesto and resource for building software that matters.
-
-### Non-Technical
-
-When I'm not obsessing over feedback loops, I'm usually obsessing over **Manchester City** ⚽.
-
-I also have a serious dedication to Indian food. You will often find me exploring the curry cafes of Manchester, always on the hunt for the perfect dish.
-
-### Links
-
-- [265 - Software Design with Paul Hammond](https://www.codewithjason.com/podcast/17756559-265-software-design-with-paul-hammond/) (Code with Jason podcast)
-- [In conversation with Alex: Paul Hammond explains his approach to quality software](https://alexbunardzic.substack.com/p/in-conversation-with-alex-paul-hammond)
-- [TDD @ BBC Sport - "TDD is the reason I'm never stressed"](https://journal.optivem.com/p/tdd-bbc-sport-paul-hammond)
+When I'm not obsessing over feedback loops, I'm obsessing over **Manchester City** ⚽ — or hunting down the best curry in Manchester.
 
 ---
 
 <div align="center">
 
-**[Read the Manifesto](https://feedbackdriven.dev)** • **[Connect on LinkedIn](https://www.linkedin.com/in/paul-hammond-bb5b78251/)**
+**[Visit feedbackdriven.dev](https://feedbackdriven.dev)** • **[Connect on LinkedIn](https://www.linkedin.com/in/paul-hammond-bb5b78251/)**
 
 </div>
